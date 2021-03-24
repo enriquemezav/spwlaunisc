@@ -4,7 +4,7 @@
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/enriquemezav/spwlaunisc/blob/master/notebook/ws_spwlaunisc.ipynb)
 [![CCO](https://img.shields.io/github/license/softwareunderground/awesome-open-geoscience.svg)](https://github.com/enriquemezav/spwlaunisc_PythonAppliedOG/blob/master/LICENSE)
 
-Hola, somos un grupo de estudiantes miembros del Capítulo Estudiantil de la Society of Petrophysicists and Well Log Analysts en la Universidad Nacional de Ingeniería ([SPWLA UNI SC](https://www.linkedin.com/company/spwlaunisc/)); organizamos este curso de introducción a la programación en Python en colaboración con el grupo de investigación TRM de acceso abierto y gratuito al público, con el objetivo de mostrar su aplicación en la industria de Oil & Gas.
+Hola, somos un grupo de estudiantes miembros del Capítulo Estudiantil de la **Society of Petrophysicists and Well Log Analysts** en la *Universidad Nacional de Ingeniería* ([SPWLA UNI SC](https://www.linkedin.com/company/spwlaunisc/)); organizamos este curso de introducción a la programación en Python en colaboración con el grupo de investigación TRM de acceso abierto y gratuito al público, con el objetivo de mostrar su aplicación en la industria de Oil & Gas.
 
 <H1 align="center"><img src="https://i.ibb.co/0GKk29s/Dise-o-sin-t-tulo.png" width = 800></H1>
 
