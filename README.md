@@ -20,10 +20,10 @@ Hola, somos un grupo de estudiantes miembros del Capítulo Estudiantil de la Soc
 
 El libro presenta las bibliotecas centrales esenciales para trabajar con datos en Python: particularmente NumPy , Pandas , Matplotlib , SciPy y Lasio. Así también se usaron conjuntos de datos disponibles como: 
 
-| Databases | Acces |
+| Base de datos abierta | Referente | Propietario |
 |:---:|:---:|  
-| Data de Exploración|[Kansas Geological Survey](http://www.kgs.ku.edu/PRS/Scans/Log_Summary/index.html)|  
-| Data de Producción |[Campo Volve](https://www.equinor.com/en/how-and-why/digitalisation-in-our-dna/volve-field-data-village) [Zenodo](https://zenodo.org/) **(Alfonso Reyes)**|
+| Exploración | [The University of Kansas](https://www.ku.edu/) | [Kansas Geological Survey](http://www.kgs.ku.edu/PRS/Scans/Log_Summary/index.html) |  
+| Producción | [Campo Volve](https://www.equinor.com/en/how-and-why/digitalisation-in-our-dna/volve-field-data-village) | [Zenodo](https://zenodo.org/) **(Alfonso Reyes)** |
 
 ## Índice
 (Nota: a veces, la renderización del cuaderno de GitHub puede ser lenta o complicada. Si tiene problemas con los siguientes enlaces, intente ver el material en [nbviewer](https://nbviewer.jupyter.org/github/enriquemezav/spwlaunisc_PythonAppliedOG/blob/master/notebook/ws_spwlaunisc.ipynb).
