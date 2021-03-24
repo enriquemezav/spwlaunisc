@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge.svg)](https://hub.gke2.mybinder.org/user/enriquemezav-sp-pythonappliedog-486wh4eq/notebooks/notebook/ws_spwlaunisc.ipynb)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/enriquemezav/spwlaunisc/blob/master/notebook/ws_spwlaunisc.ipynb)
-[![CCO](https://img.shields.io/github/license/softwareunderground/awesome-open-geoscience.svg)](https://github.com/softwareunderground/awesome-open-geoscience/blob/master/LICENSE)
+[![CCO](https://img.shields.io/github/license/softwareunderground/awesome-open-geoscience.svg)](https://github.com/enriquemezav/spwlaunisc_PythonAppliedOG/blob/master/LICENSE)
 
 Hola, somos un grupo de estudiantes miembros del Capítulo Estudiantil de la Society of Petrophysicists and Well Log Analysts en la Universidad Nacional de Ingeniería; organizamos este curso de introducción a la programación en Python en colaboración con el grupo de investigación TRM de acceso abierto y gratuito al público, con el objetivo de mostrar su aplicación en la industria de Oil & Gas.
 
