@@ -18,7 +18,7 @@ Hola, somos un grupo de estudiantes miembros del Capítulo Estudiantil de la Soc
 
 ## Sobre el notebook
 
-El libro presenta las bibliotecas centrales esenciales para trabajar con datos en Python: particularmente NumPy , Pandas , Matplotlib , SciPy y Lasio. Así también se usaron conjuntos de datos disponibles como: 
+El libro presenta las bibliotecas centrales esenciales para trabajar con datos en Python: particularmente NumPy , Pandas , Matplotlib , SciPy y Lasio. Así también, se usaron conjuntos de datos abiertos disponibles como:
 
 | Base de datos abierta | Referente | Propietario |  
 |:---:|:---:|:---:|   
@@ -30,10 +30,10 @@ El libro presenta las bibliotecas centrales esenciales para trabajar con datos e
 
 **Índice del cuaderno**
 
-1. Fundamentos de programación en Python
-2. Principales bibliotecas en Python
-3. Conjunto de datos abiertos de Exploración
-4. Conjunto de datos abiertos de Producción
+1. Fundamentos de programación en Python.
+2. Principales bibliotecas en Python.
+3. Conjunto de datos abiertos de Exploración.
+4. Conjunto de datos abiertos de Producción.
 
 ## Licencia
 
