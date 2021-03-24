@@ -23,3 +23,10 @@ Consulte Index.ipynb para obtener un índice de los cuadernos disponibles para a
 
 ## Índice
 (Nota: a veces, la renderización del cuaderno de GitHub puede ser lenta o complicada. Si tiene problemas con los siguientes enlaces, intente ver el material en [nbviewer](https://nbviewer.jupyter.org/github/enriquemezav/spwlaunisc_PythonAppliedOG/blob/master/notebook/ws_spwlaunisc.ipynb).
+
+**Índice del cuaderno**
+
+1. Fundamentos de programación en Python
+2. Principales bibliotecas en Python
+3. Conjunto de datos abiertos de Exploración
+4. Conjunto de datos abiertos de Producción
