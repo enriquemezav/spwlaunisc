@@ -31,6 +31,6 @@ Consulte Index.ipynb para obtener un índice de los cuadernos disponibles para a
 3. Conjunto de datos abiertos de Exploración
 4. Conjunto de datos abiertos de Producción
 
-## Licencia y citación
+## Licencia
 
 Este material se publica bajo la licencia [CC0](LICENSE) "Sin derechos reservados" y, por lo tanto, usted es libre de reutilizar, modificar, construir y mejorar este material para cualquier propósito. Lea más sobre CC0 [aquí](https://creativecommons.org/share-your-work/public-domain/cc0/).
