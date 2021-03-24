@@ -7,7 +7,7 @@
 
 ## Cómo usar este notebook
 
-- Ejecute el código utilizando los cuadernos de Jupyter disponibles en el directorio [cuadernos] (cuadernos) de este repositorio. 
+- Ejecute el código utilizando los cuadernos de Jupyter disponibles en el directorio [notebooks](notebook) de este repositorio. 
 
 - Ejecute versiones ejecutables de estos cuadernos utilizando [Google Colab](http://colab.research.google.com): [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/enriquemezav/spwlaunisc/blob/master/notebook/ws_spwlaunisc.ipynb)
 
