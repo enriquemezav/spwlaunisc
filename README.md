@@ -20,3 +20,6 @@ El libro fue escrito y probado con Python 3.5, aunque otras versiones de Python 
 El libro presenta las bibliotecas centrales esenciales para trabajar con datos en Python: particularmente IPython , NumPy , Pandas , Matplotlib , Scikit-Learn y paquetes relacionados. Se asume familiaridad con Python como lenguaje; Si necesita una introducción rápida al lenguaje en sí, consulte el proyecto complementario gratuito, A Whirlwind Tour of Python : es una introducción rápida al lenguaje Python dirigida a investigadores y científicos.
 
 Consulte Index.ipynb para obtener un índice de los cuadernos disponibles para acompañar el texto.
+
+## Índice
+(Nota: a veces, la renderización del cuaderno de GitHub puede ser lenta o complicada. Si tiene problemas con los siguientes enlaces, intente ver el material en [nbviewer](https://nbviewer.jupyter.org/github/enriquemezav/spwlaunisc_PythonAppliedOG/blob/master/notebook/ws_spwlaunisc.ipynb))* )
