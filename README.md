@@ -1,9 +1,11 @@
+<H1 align="center"><img src="https://i.ibb.co/0GKk29s/Dise-o-sin-t-tulo.png" width = 800></H1>
+
 # Python Aplicado a la Industria del O&G
 
 [![Binder](https://mybinder.org/badge.svg)](https://hub.gke2.mybinder.org/user/enriquemezav-sp-pythonappliedog-486wh4eq/notebooks/notebook/ws_spwlaunisc.ipynb)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/enriquemezav/spwlaunisc/blob/master/notebook/ws_spwlaunisc.ipynb)
 
-<H1 align="center"><img src="https://i.ibb.co/0GKk29s/Dise-o-sin-t-tulo.png" width = 800></H1>
+Hola, somos un grupo de estudiantes miembros del Capítulo Estudiantil de la Society of Petrophysicists and Well Log Analysts en la Universidad Nacional de Ingeniería; organizamos este curso de introducción a la programación en Python en colaboración con el grupo de investigación TRM de acceso abierto y gratuito al público, con el objetivo de mostrar su aplicación en la industria de Oil & Gas.
 
 ## Cómo usar este notebook
 
