@@ -1,6 +1,6 @@
 # Python Aplicado a la Industria del O&G
 
-[![Binder](https://mybinder.org/badge.svg)](https://hub.gke2.mybinder.org/user/enriquemezav-sp-pythonappliedog-486wh4eq/notebooks/notebook/ws_spwlaunisc.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/enriquemezav/spwlaunisc_PythonAppliedOG/master?filepath=notebook/ws_spwlaunisc.ipynb)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/enriquemezav/spwlaunisc/blob/master/notebook/ws_spwlaunisc.ipynb)
 [![CCO](https://img.shields.io/github/license/softwareunderground/awesome-open-geoscience.svg)](https://github.com/enriquemezav/spwlaunisc_PythonAppliedOG/blob/master/LICENSE)
 
