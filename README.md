@@ -14,7 +14,7 @@ Hola, somos un grupo de estudiantes miembros del Capítulo Estudiantil de la **S
 
 - Ejecute versiones ejecutables de estos cuadernos utilizando [Google Colab](http://colab.research.google.com): [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/enriquemezav/spwlaunisc/blob/master/notebook/ws_spwlaunisc.ipynb)
 
-- Inicie un servidor de cuadernos en vivo con estos cuadernos usando [binder](https://beta.mybinder.org/): [![Binder](https://mybinder.org/badge.svg)](https://hub.gke2.mybinder.org/user/enriquemezav-sp-pythonappliedog-486wh4eq/notebooks/notebook/ws_spwlaunisc.ipynb)
+- Inicie un servidor de cuadernos en vivo con estos cuadernos usando [binder](https://beta.mybinder.org/): [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/enriquemezav/spwlaunisc_PythonAppliedOG/master?filepath=notebook/ws_spwlaunisc.ipynb)
 
 ## Sobre el notebook
 
